@@ -152,4 +152,4 @@ With automation complete, the system is now ready for:
 - Carbon estimation
 - Sustainability scoring
 
-Stage 04 completes the backend infrastructure foundation.
+So likewise Stage 04 completes the backend infrastructure foundation.
