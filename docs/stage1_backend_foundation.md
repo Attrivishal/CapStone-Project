@@ -5,6 +5,7 @@
 
 - > No AWS integration or database connectivity was implemented during this phase.
 
+
 2️⃣ Development Environment
 
 Operating System:
