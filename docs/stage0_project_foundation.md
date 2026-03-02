@@ -86,7 +86,6 @@ RDS PostgreSQL
 Secure and production-oriented deployment.
 
 8️⃣ Success Criteria
-
 - > The project will be considered successful if:
 - > Real AWS data is integrated.
 - > Historical data is stored automatically.
